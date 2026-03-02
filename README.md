@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Milena Coyado 👋
 
-<!--
-**mictalks/mictalks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer passionate about technology. With a degree in Computer Science, I focus on building intuitive and efficient front-end experiences using JavaScript and React.
 
-Here are some ideas to get you started:
+## Currently Learning  
+- JavaScript  
+- React  
+- And always exploring more!
+  
+## Content Creation  
+I make videos and posts about software development, career tips, and tech insights at [MicTalks](https://instagram.com/mictalks).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social Links
+
+<div align="left">
+  <!-- Social Links -->
+   <a target='_blank' href="https://www.linkedin.com/in/milenaporto/"> 
+      <img title="My LinkedIn" alt="Linkedin" | Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
+   </a>
+  <a target='_blank' href="https://www.youtube.com/@imMicTalks"> 
+      <img title="My Youtube" alt="Youtube" | Linkedin" src="https://img.shields.io/badge/-Youtube-FF0033?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"> 
+   </a>
+</div>
+
